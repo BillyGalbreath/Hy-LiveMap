@@ -1,1 +1,1 @@
-rootProject.name = "HytaleTest"
+rootProject.name = "LiveMap"

@@ -1,8 +1,8 @@
 {
-    "Group": "net.pl3x.hytaletest",
-    "Name": "HytaleTest",
-    "Version": "1.0.0",
-    "Description": "Hytale test plugin",
+    "Group": "${group}",
+    "Name": "${artifact}",
+    "Version": "${version}",
+    "Description": "${description}",
     "Authors": [
         {
             "Name": "BillyGalbreath"
@@ -13,6 +13,6 @@
     "Dependencies": {},
     "OptionalDependencies": {},
     "DisabledByDefault": false,
-    "Main": "net.pl3x.hytaletest.HytaleTest",
+    "Main": "${group}.${artifact}",
     "IncludesAssetPack": true
 }
