@@ -1,0 +1,18 @@
+{
+    "Group": "net.pl3x.hytaletest",
+    "Name": "HytaleTest",
+    "Version": "1.0.0",
+    "Description": "Hytale test plugin",
+    "Authors": [
+        {
+            "Name": "BillyGalbreath"
+        }
+    ],
+    "Website": "https://pl3x.net",
+    "ServerVersion": "",
+    "Dependencies": {},
+    "OptionalDependencies": {},
+    "DisabledByDefault": false,
+    "Main": "net.pl3x.hytaletest.HytaleTest",
+    "IncludesAssetPack": true
+}
