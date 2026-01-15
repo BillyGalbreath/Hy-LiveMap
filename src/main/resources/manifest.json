@@ -5,14 +5,18 @@
     "Description": "${description}",
     "Authors": [
         {
-            "Name": "BillyGalbreath"
+            "Name": "BillyGalbreath",
+            "Email": "",
+            "Url": ""
         }
     ],
     "Website": "https://pl3x.net",
     "ServerVersion": "",
     "Dependencies": {},
     "OptionalDependencies": {},
+    "LoadBefore": {},
     "DisabledByDefault": false,
-    "Main": "${group}.${artifact}",
-    "IncludesAssetPack": true
+    "IncludesAssetPack": true,
+    "SubPlugins": [],
+    "Main": "${group}.${artifact}"
 }
